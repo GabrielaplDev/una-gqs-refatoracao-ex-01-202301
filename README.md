@@ -98,3 +98,7 @@ Você deverá criar um ***"Fork"*** deste repositório, e após isso, versionar 
 Utilize o conceito de Git Semântico para versioná-lo.<br>
 Você deverá enviar o link (url) do seu repositório na atividade da lista proposta em aula.<br>
 Bons estudos!
+
+
+
+-----------------------------
